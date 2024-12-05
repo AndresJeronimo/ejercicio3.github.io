@@ -1,0 +1,43 @@
+hr{
+    border-color: rgb(255, 0, 0);
+    border-width: 3px;
+}
+header{
+    text-align: center;
+}
+body{
+    background-image: url("https://images.unsplash.com/photo-1573883844855-f364441ac463?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80 ");
+}
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+section{
+    text-align: center;
+}
+div{
+    background-color: rgb(222, 184, 135);
+    padding: 20px;
+    
+    max-width: 500px;
+}
+.menu{
+    margin-right: auto;
+    margin-left: auto;
+}
+.Sabor{
+    text-align: left;
+    width: 75%;
+}
+.Precio{
+    text-align: right;
+    width: 75%;
+}
+article{
+    display: flex;
+}
